@@ -1,0 +1,42 @@
+_repo: The-shoemaker-A-powerful-picture-of-nature-adapted-from-Hal-Reids-famous-drama-of-the-same-na__69408
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Harper, Olive
+    alias: D'Apery, Ellen
+    birthdate: 1842
+    deathdate: 1915
+    gutenberg_agent_id: '55247'
+    url: http://www.gutenberg.org/2009/agents/55247
+  - agent_name: Reid, Hal
+    alias: Reid, James Halleck
+    birthdate: 1862
+    deathdate: 1920
+    gutenberg_agent_id: '55248'
+    url: http://www.gutenberg.org/2009/agents/55248
+    wikipedia: https://en.wikipedia.org/wiki/Hal_Reid_(actor)
+description: ''
+gutenberg_issued: '2022-11-23'
+identifiers:
+  gutenberg: '69408'
+language: en
+pgterms:marc904: https://digital.library.villanova.edu/Item/vudl:712567
+pgterms:marc905: 20220427062905harper
+pgterms:marc906: '1907'
+pgterms:marc907: us
+production_note: Demian Katz, Craig Kirkwood, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (Images courtesy of the Digital Library@Villanova University.)
+publication_note: 'United States: J. S. Ogilvie Publishing Company,1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fathers and daughters -- Fiction'
+- !lcsh 'Abduction -- Fiction'
+- !lcsh 'West (U.S.) -- Fiction'
+- !lcsh 'Shoemakers -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: "The shoemaker\r\nA powerful picture of nature, adapted from Hal Reid’s famous\
+  \ drama of the same name"
+url: http://www.gutenberg.org/ebooks/69408
